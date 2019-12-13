@@ -1,0 +1,4 @@
+#Fri Dec 13 16:27:20 BRT 2019
+base.0=/home/weskley/Documentos/repositorios_github/agenda_contatos/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

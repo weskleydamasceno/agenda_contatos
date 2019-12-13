@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/weskley/Documentos/repositorios_github/agenda_contatos/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/home/weskley/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf33a694c3a149f5aa0b4f0905e15f83/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
